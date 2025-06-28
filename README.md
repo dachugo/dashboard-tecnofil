@@ -1,6 +1,6 @@
 # 📊 Dashboard Simulado de Tecnofil
 
-Hecho en **Python + Streamlit + Plotly** que simula la funcionalidad de Power BI pero sin necesidad de conexión en línea.
+Hecho en **Python + Streamlit + Plotly** que simula la funcionalidad del Power BI.
 
 ## Requisitos
 
