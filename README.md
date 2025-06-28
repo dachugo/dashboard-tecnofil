@@ -11,8 +11,6 @@ Antes de ejecutar el proyecto, necesitas tener:
 
 ## Instalar dependencias
 
-    Ejecuta:
-
 ```bash
 pip install streamlit pandas plotly numpy
 ```
