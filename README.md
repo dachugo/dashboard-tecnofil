@@ -1,4 +1,4 @@
-# 📊 Dashboard Simulado de Tecnofil
+# 📊 Dashboard Simulado de una empresa Tecnofil (Simulación)
 
 Hecho en **Python + Streamlit + Plotly** que simula la funcionalidad del Power BI.
 
