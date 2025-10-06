@@ -6,6 +6,8 @@ Este proyecto es un **Dashboard Interactivo de Big Data** desarrollado en Python
 
 El dashboard permite analizar y visualizar datos comerciales clave, facilitando la identificación de oportunidades de mejora, optimización de inventarios y evaluación del rendimiento comercial. Está orientado a usuarios que buscan una herramienta intuitiva y potente para el análisis de datos empresariales.
 
+![Dashboard Principal](screenshots/screenshot_1%20(1).jpeg)
+
 ## 🛠️ Tecnologías Utilizadas
 - **Python 3.8+**
 - **Streamlit**: Framework para crear aplicaciones web interactivas de datos.
@@ -22,8 +24,14 @@ El dashboard permite analizar y visualizar datos comerciales clave, facilitando 
 El dashboard está dividido en varias secciones, accesibles desde el menú lateral:
 
 - **Optimización de Inventarios**: Visualiza el stock disponible por categoría y sucursal, detecta ineficiencias y muestra detalles de inventario y ventas para reducir desperdicios y mejorar la sostenibilidad.
+
+![Optimización de Inventarios](screenshots/screenshot_1%20(2).jpeg)
 - **Productos Destacados**: Analiza ventas, margen ajustado y rentabilidad por producto. Incluye gráficos de barras, dispersión y tablas interactivas para identificar los productos más relevantes.
+
+![Productos Destacados](screenshots/screenshot_1%20(3).jpeg)
 - **Rendimientos Comerciales**: Evalúa el desempeño de sucursales y vendedores, mostrando resúmenes de ventas y visualizaciones por zonas de venta para mejorar la eficiencia comercial.
+
+![Rendimientos Comerciales](screenshots/screenshot_1%20(4).jpeg)
 - **Resumen de Ventas**: Consulta unidades y montos vendidos según método de pago y categoría, con gráficos de líneas por mes y barras apiladas para un análisis detallado.
 
 ## ⚡ Instalación y Ejecución
